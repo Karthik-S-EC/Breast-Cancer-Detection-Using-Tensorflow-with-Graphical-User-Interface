@@ -35,8 +35,15 @@ Breast Cancer Detection using Tensorflow with GUI for testing with better user f
 5. setuptools = `pip3 install --upgrade setuptools`
 6. PyQt5 = `pip3 install PyQt5`
 
+## NoteBook File
+1. ipynb: `src\Breast-Cancer-Detection.ipynb`
+
+## GUI Source Files
+1. python: `src\MainGUI.py`
+2. UI    : `src\MainGUI.ui`
+
 ## Screenshots of the Graphical user interface of Breast Cancer Detection
-![Image of GUI](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/Annotation%202020-05-01%20111633.jpg)
-![Clicking on Detect without selecting the Image](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/Annotation%202020-05-01%20111718.jpg)
-![Loaded Custom Dataset Trained Model](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/Annotation%202020-05-01%20111840.jpg)
-![Result of one of the Image](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/Annotation%202020-05-01%20111912.jpg)
+![Image of GUI](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/img/gui_image.jpg)
+![Clicking on Detect without selecting the Image](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/img/detect_without_image.jpg)
+![Loaded Custom Dataset Trained Model](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/img/loaded_model.jpg)
+![Result of one of the Image](https://github.com/Karthik-S-EC/Breast-Cancer-Detection-Using-Tensorflow-with-Graphical-User-Interface/blob/master/img/result.jpg)
